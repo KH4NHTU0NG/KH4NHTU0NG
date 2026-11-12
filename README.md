@@ -9,6 +9,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://komarev.com/ghpvc/?username=KH4NHTU0NG&style=flat-square&color=blue)](https://github.com/KH4NHTU0NG)
