@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://kh4nhtu0ng.github.io/ASCII-CHRISTMAS/" title="Click to open interactive 3D ASCII Christmas Tree">
-    <img src="https://raw.githubusercontent.com/KH4NHTU0NG/ASCII-CHRISTMAS/main/assets/preview.webp" alt="3D ASCII Christmas Tree" width="760" />
+    <img src="https://raw.githubusercontent.com/KH4NHTU0NG/ASCII-CHRISTMAS/main/assets/profile-tree.svg?v=1" alt="3D ASCII Christmas Tree" width="800" />
   </a>
 </p>
 
