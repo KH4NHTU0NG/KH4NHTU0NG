@@ -10,5 +10,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://kh4nhtu0n9.github.io/ASCII-CHRISTMAS/" title="Open interactive 3D ASCII Christmas Tree">
+    <img src="./assets/preview.webp" alt="ASCII-CHRISTMAS 3D Terminal Tree" width="640" />
+  </a>
+</p>
+
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
